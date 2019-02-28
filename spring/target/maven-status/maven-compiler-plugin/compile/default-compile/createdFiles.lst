@@ -1,0 +1,11 @@
+it/akademija/sventes/servisas/SventesRepositorija.class
+it/akademija/sventes/SventesEntity.class
+it/akademija/sventes/SventesDTO.class
+it/akademija/CorsConfig.class
+it/akademija/App.class
+it/akademija/sventes/servisas/SventesServisas.class
+it/akademija/sventes/kontroleris/EditSventeKomanda.class
+it/akademija/config/Cors.class
+it/akademija/sventes/kontroleris/CreateSventeKomanda.class
+it/akademija/AppConfig.class
+it/akademija/sventes/kontroleris/SventesKontroleris.class
