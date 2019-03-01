@@ -1,24 +1,11 @@
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/PagingData.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/controler/ProductController.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/model/CreateUserCommand.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/RestServisas.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/controler/Product.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/AppConfig.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/service/UserService.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/dao/UserDao.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/Product.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/serviceSenas/ProductOfService.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/model/User.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/db/ProductsRepository.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/App.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/model/NewUserSen.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/controller/UserController.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/model/NewUser.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/db/ProductDb.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/dao/repo/UserRepository.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/ProductDetails.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/dao/repo/InMemoryUserDAO.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/serviceSenas/ServiceForProducts.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/dao/repo/DBUserDAO.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/HelloController.java
-/home/jurgita/Desktop/Eksperimentams/java-technologijos (copy)/spring/src/main/java/it/akademija/ProductBeans.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/sventes/SventesDTO.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/sventes/kontroleris/EditSventeKomanda.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/sventes/kontroleris/SventesKontroleris.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/CorsConfig.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/config/Cors.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/AppConfig.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/sventes/kontroleris/CreateSventeKomanda.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/sventes/servisas/SventesServisas.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/App.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/sventes/servisas/SventesRepositorija.java
+/home/jurgita/Desktop/java-technologijos/spring/src/main/java/it/akademija/sventes/SventesEntity.java
